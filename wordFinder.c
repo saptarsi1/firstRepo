@@ -13,6 +13,7 @@ int main()
     // printf("You had entered: \n");
     // printf("%s",a);
     printf("enter a word:");
+    printf("lololo");
     scanf("%s",b);
     int flag=0;
 
